@@ -1,6 +1,6 @@
 body {
     margin: 20px;
-    background-color: rgb(56, 75, 106);
+    background-color: rgb(156, 175, 106);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -30,4 +30,5 @@ box-shadow : inset 0 0 25px #6248cd, 0 8px 25px -3px black;
     width: 450px;
     height: fit-content;
     box-shadow: inset 0 0 0 0 , 0 0 0 0;
+
 }
